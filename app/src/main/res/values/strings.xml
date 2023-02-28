@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">PMDDMM_Tarea3-1_GABRIELZAFRA</string>
+    <string name="input_comic_number">Número de comic</string>
+    <string name="view">Ver</string>
+    <string name="history">Historial</string>
+    <string name="prev">Previous</string>
+    <string name="next">Next</string>
+    <string name="err_comic_not_found">No se ha encontrado el comic</string>
+    <string name="url_xkcd" translatable="false">https://xkcd.com/</string>
+    <string name="err_invalid_id">Número no válido.</string>
+    <string name="err_empty_history">El historial esta vacio</string>
+    <string name="err_io_history">No se puede leer el historial</string>
+</resources>

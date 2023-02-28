@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="input_comic_number">Comic number</string>
+    <string name="view">View</string>
+    <string name="history">History</string>
+    <string name="prev">Previous</string>
+    <string name="next">Next</string>
+    <string name="err_comic_not_found">Comic not found</string>
+    <string name="err_invalid_id">Invalid number</string>
+    <string name="err_empty_history">Comic history is empty</string>
+    <string name="err_io_history">Unable to read history</string>
+</resources>
